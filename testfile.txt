@@ -1,2 +1,0 @@
-person1: hey how are you
-person2: I'm fine bro what about you
