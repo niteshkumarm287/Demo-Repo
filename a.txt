@@ -1,4 +1,7 @@
 Hello 
 test file 1 
 demo file 
-
+new line
+line 5
+line 6
+line 7
